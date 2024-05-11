@@ -17,7 +17,7 @@ const (
 
 	// Operators
 	ASSING = "="
-	PLUST  = "+"
+	PLUS   = "+"
 
 	// Delimiters
 	COMMA     = ","
