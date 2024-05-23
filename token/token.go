@@ -16,6 +16,8 @@ const (
 	INT   = "INT"   // 123456
 
 	// Operators
+	EQ       = "=="
+	NOT_EQ   = "!="
 	ASSING   = "="
 	PLUS     = "+"
 	MINUS    = "-"
